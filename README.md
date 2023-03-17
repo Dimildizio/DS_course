@@ -8,11 +8,25 @@ Each folder represents a different topic and contains files and code for practic
 
 ## **Topics**
 
-**exploratory-data-analysis**: Folder with tasks related to exploratory data analysis (EDA).
+### **exploratory-data-analysis**
 
-**feature-engineering**: Folder with tasks related to feature engineering.
+Folders with tasks related to exploratory data analysis (EDA):
+ 
+> EDA - Group project on analyzing Netflix dataset
 
-**machine-learning**: Folder with tasks related to machine learning algorithms and models.
+ 
+### **feature-engineering**
+
+Folders with tasks related to feature engineering:
+
+> PCA_sound_compression - PCA reducing dimensionality 
+
+
+### **machine-learning** 
+
+Folder with tasks related to machine learning algorithms and models:
+
+> shine-on-you - linear regression and clusterization
 
 ## **Requirements**
 
