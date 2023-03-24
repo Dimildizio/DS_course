@@ -10,6 +10,8 @@ Each folder represents a different topic and contains files and code for practic
 
 ### **exploratory-data-analysis**
 
+These folders contain Jupyter notebooks that demonstrate how to perform exploratory data analysis to better understand data before modeling. The notebooks include visualization techniques, statistical analysis, and data cleaning methods.
+
 Folders with tasks related to exploratory data analysis (EDA):
  
 > EDA - Group project on analyzing Netflix dataset
@@ -17,16 +19,29 @@ Folders with tasks related to exploratory data analysis (EDA):
  
 ### **feature-engineering**
 
+These folders covers different techniques used to extract, transform and select features from raw data. They include Jupyter notebooks that explain how to engineer features and why it's important for building accurate models.
+
 Folders with tasks related to feature engineering:
 
 > PCA_sound_compression - PCA reducing dimensionality 
 
 
-### **machine-learning** 
+### **machine-learning**
 
-Folder with tasks related to machine learning algorithms and models:
+These folder focus on different machine learning algorithms and techniques.  Include Jupyter notebooks that cover supervised learning, unsupervised learning, and reinforcement learning. Each notebook includes code examples, explanations of the algorithms, and how to evaluate their performance.
+
+Folders with tasks related to machine learning algorithms and models:
 
 > shine-on-you - linear regression and clusterization
+
+### **optimizers**
+
+These folders covers different optimization algorithms used in machine learning. Includes Jupyter notebooks that explain how optimization algorithms work and their role in training machine learning models. The notebooks cover different optimization algorithms such as gradient descent and RMSprop. TODO: Stochastic gradient descent (SGD), Adam and Adagrad. 
+
+Folders with tasks related to optimization algorithms:
+
+> gradient-descent - different types of gradient descent
+
 
 ## **Requirements**
 
