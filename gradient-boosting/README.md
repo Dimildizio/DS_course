@@ -9,13 +9,14 @@ The goal of this Kaggle competition is to predict house prices based on various 
 
 ## Data
 
-The dataset for this competition includes a training set with 1,460 observations and 80 features, and a test set with 1,460 observations and the same 80 features. We will be using the training set to train our models and the test set to make predictions, which we will submit to the Kaggle competition for evaluation.
+The dataset for this competition includes a training set with 1,460 observations and 80 features, and a test set with 1,459 observations and the same 80 features. We will be using the training set to train our models and the test set to make predictions, which we will submit to the Kaggle competition for evaluation.
 
 
 ## Approach
 
 Our team plans to explore various machine learning techniques, including linear regression, random forests, and gradient boosting, among others. We will also use feature engineering and selection techniques to improve the performance of our models. 
 Hopefully each team member will be working on different aspects of the project and contributing their work to the repository instead of leaving everything to the chosen few. If we manage to nail it this time, unlike with the EDA project, we'll hold regular meetings to discuss progress, review each other's work, and plan next steps.
+We are going to control our workflow using Todoist.
 
 ## Repository Structure
 Our repository is organized as follows:
