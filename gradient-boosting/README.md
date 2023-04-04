@@ -9,7 +9,7 @@ The goal of this Kaggle competition is to predict house prices based on various 
 
 ## Data
 
-The dataset for this competition includes a training set with 1,460 observations and 80 features, and a test set with 1,459 observations and the same 80 features. We will be using the training set to train our models and the test set to make predictions, which we will submit to the Kaggle competition for evaluation.
+The dataset for this competition includes a training set with 1,460 observations and 80 features, and a test set with 1,459 observations and 79 features (Target parameter is not included). We will be using the training set to train our models and the test set to make predictions, which we will submit to the Kaggle competition for evaluation.
 
 
 ## Approach
@@ -30,7 +30,7 @@ Our repository is organized as follows:
 README.md: this file.
 
 ## Next Steps
-Our next steps will be to explore the data and perform exploratory data analysis to identify important features and trends. We will also develop baseline models using simple regression techniques and evaluate their performance using metrics such as mean squared error. Finally, we will use more advanced machine learning techniques to build models that outperform the baseline models.
+Our next steps will be to explore the data and perform exploratory data analysis to identify important features and trends. We will also develop baseline models using simple regression techniques and evaluate their performance using metrics such as mean squared error of logs of train and validation data. Finally, we will use more advanced machine learning techniques to build models that outperform the baseline models. Feature selection and feature engineering will also be performed.
 
 ## References
 House Prices - Advanced Regression Techniques Kaggle competition: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
