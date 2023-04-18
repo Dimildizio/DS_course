@@ -34,6 +34,10 @@ Folders with tasks related to machine learning algorithms and models:
 
 > shine-on-you - linear regression and clusterization
 
+> gradient-boositng - combined application of EDA, different ML models and feature selections\engineering
+
+> Neural_networks - introduction to a magnificent world of neural networks and deep learning
+
 ### **optimizers**
 
 These folders covers different optimization algorithms used in machine learning. Includes Jupyter notebooks that explain how optimization algorithms work and their role in training machine learning models. The notebooks cover different optimization algorithms such as gradient descent and RMSprop. TODO: Stochastic gradient descent (SGD), Adam and Adagrad. 
