@@ -34,6 +34,8 @@ Folders with tasks related to machine learning algorithms and models:
 
 > shine-on-you - linear regression and clusterization
 
+> models - for simple tests of different kinds of models
+
 > gradient-boositng - combined application of EDA, different ML models and feature selections\engineering
 
 > Neural_networks - introduction to a magnificent world of neural networks and deep learning
