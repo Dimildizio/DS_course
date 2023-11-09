@@ -1,0 +1,14 @@
+apu_nahasapeemapetilon pic_0310 pic_0401 pic_0046 pic_0507 pic_0505 pic_0617
+bart_simpson pic_0712 pic_1309 pic_1328 pic_1329
+charles_montgomery_burns pic_0484 pic_0808 pic_0998
+chief_wiggum pic_0258 pic_0257 pic_0405 pic_0472 pic_0477 pic_0481 pic_0483 pic_0484 pic_0487
+sideshow_bob pic_0701
+cletus_spuckler pic_0046
+homer_simpson pic_0143 pic_0317 pic_0143 pic_0432 pic_1533 pic_2227 pic_2227 pic_2227
+kent_brockman pic_0412
+krusty_the_clown pic_0191 pic_0228
+lisa_simpson pic_0324 pic_0557 pic_0632 pic_0634
+marge_simpson pic_0002 pic_0016 pic_0049 pic_0137 pic_0203 pic_0273 pic_0382 pic_0467 pic_0482 pic_0501 pic_0515 pic_0538 pic_0542 pic_0663 pic_0749 pic_0762 pic_0809 pic_0890 pic_0952 pic_0972 pic_0995 pic_1012 pic_1021 pic_1032 pic_1153 pic_1216 pic_1226 pic_1285
+milhouse_van_houten pic_0046
+ned_flanders pic_0039 pic_0219 pic_0420 pic_0928
+principal_skinner pic_0093 pic_0702
