@@ -61,11 +61,50 @@ project/
 - [ ] Clearly defined response schemas (Pydantic response models)
 - [ ] Optional input size limitations or validations (e.g., file-size limit, dimensions)
 
+---
+
+## Classical ML Model Training
+- [ ] Train multiple candidate models (e.g., XGBoost, RandomForest, LightGBM) and select the best-performing model based on validation metrics.
+- [ ] Always perform probability calibration
+
+---
+
+## Dataset Handling
+- [ ] Visualize dataset distributions to identify potential severe class imbalance.
+- [ ] Apply stratified splits (train/test/validation) to maintain class distributions, especially for imbalanced datasets.
+
+---
+
+## Dataset Handling
+- [ ] Visualize dataset distributions to identify potential severe class imbalance.
+- [ ] Apply stratified splits (train/test/validation) to maintain class distributions, especially for imbalanced datasets.
+
+---
+
+## Quality Metrics
+- [ ] Essential Metrics for classification: Accuracy, Precision, Recall, F1-score, ROC-AUC.
+- [ ] Imbalanced Classification: PR-AUC as the primary metric.
+- [ ] LLM Cost Efficiency: Include cost calculation metrics when using external APIs: Input token num and costs, output token num and cost
+- [ ] LLM Proprietary: Overall cost efficiency (metric_per_dollar)—evaluate performance per dollar spent.
+- [ ]  Local Models: Calculate and document both accuracy and inference speed (ms/request, tokens/sec).
+
+---
+
+## Performance Metrics
+- [ ] RPS
+- [ ] Latency
+- [ ] Measure and separately report detailed timing within the prediction pipeline (i.e. preprocessing, emb, model, post-processing, total time)
+- [ ]  Return detailed timing breakdown in the output JSON for each request.
+
+---
+
 ## Testing
 - [ ] Unit test for at least one successful inference  
 - [ ] Input validation tests (e.g., empty, corrupted input)  
 - [ ] Load testing with Locust or K6
 - [ ]  Performance benchmarking guidelines or reports included
+
+---
 
 ##  Security & Stability
 - [ ] Proper CORS policy  
@@ -73,6 +112,8 @@ project/
 - [ ] HTTPS-ready config for production use  
 - [ ] Ability to disable graphical/statistical tools via ENV  
 - [ ] Logging only enabled in debug/dev mode  
+
+---
 
 ## DevOps & Automation
 - [ ] pre-commit hooks (black, isort, flake8)  
